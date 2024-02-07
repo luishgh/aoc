@@ -1,0 +1,11 @@
+#+TITLE: Advent of Code Solves
+#+AUTHOR: Luis Henrique Gomes Higino
+
+This are my personal solves from previous [[https://adventofcode.com][AOC]]. Each year is solved in an specific language. I have not solved all problems for any given year and probably won't do it for the foreseable future :/.
+
+*Disclaimer:* I'm currently solving AOC 2023 in a totally different fashion, so my solves for it are on a [[https://github.com/luishgh/aoc2023][separete repo]].
+
+** Years
+
+- 2015 :: Ocaml
+- 2022 :: C++

@@ -1,0 +1,15 @@
+#+TITLE: Yule: My personal AOC helper
+#+AUTHOR: Luis Henrique Gomes Higino
+
+* Disclaimer!
+
+I do not intend to support any external use for this program. I've built it only for my personal use, so that's the only one that I plan on supporting. Hope you understand :).
+
+* Expected schema
+
+- program file :: something like =2022/day1.cpp=
+- example file :: something like =2022/day1.ex=
+- example output file :: something like =2022/day1.ex.out=
+- input file :: something like =2022/day1.in=
+
+You can disable testing against the example using the ~--no-example~ flag.
